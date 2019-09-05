@@ -19,6 +19,6 @@ This track is intentionally broad; we’re open to seeing a broad range of ethic
  
 Starting points:
 - [Ellis (2017). “How tech campuses hinder diversity and help gentrification.” Wired.](https://www.wired.com/2017/02/tech-campuses-hinder-diversity-help-gentrification/)
-- Christian (2017). “Is there any hope for Facebook’s fact-checking efforts?” The Atlantic.
-- Weigert (2019). “How the Internet amplifies our cognitive biases.” Hacker Noon.
-- Verdolin (2017). “Cultivating Empathy. What does it take?” Psychology Today.
+- [Christian (2017). “Is there any hope for Facebook’s fact-checking efforts?” The Atlantic.](https://www.theatlantic.com/technology/archive/2017/09/facebook-fact-checking-challenges/540192/)
+- [Weigert (2019). “How the Internet amplifies our cognitive biases.” Hacker Noon.](https://hackernoon.com/in-the-digital-age-cognitive-biases-are-running-wild-420b8f4f7cb5)
+- [Verdolin (2017). “Cultivating Empathy. What does it take?” Psychology Today.](https://www.psychologytoday.com/us/blog/wild-connections/201709/cultivating-empathy)
